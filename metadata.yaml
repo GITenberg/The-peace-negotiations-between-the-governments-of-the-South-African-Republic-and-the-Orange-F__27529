@@ -1,0 +1,36 @@
+_repo: The-peace-negotiations-between-the-governments-of-the-South-African-Republic-and-the-Orange-F__27529
+_version: 0.1.0
+contributor:
+  translator: &id001
+    agent_name: Velden, D. E. van
+    gutenberg_agent_id: '32748'
+    url: http://www.gutenberg.org/2009/agents/32748
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kestell, J. D. (John Daniel)
+    alias: Kestell, John Daniel
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '32747'
+    url: http://www.gutenberg.org/2009/agents/32747
+  - *id001
+description: ''
+gutenberg_issued: '2008-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- History'
+- !lcsh 'South African War, 1899-1902'
+- !lcc 'DT'
+title: The peace negotiations between the governments of the South African Republic
+  and the Orange Free State, and the representatives of the British government, which
+  terminated in the peace concluded at Vereeniging on the 31st May, 1902
+url: http://www.gutenberg.org/ebooks/27529
